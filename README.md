@@ -1,2 +1,2 @@
 # Edgrid-prepros
-Ejercicio de layer responsive ymenú, con plantilla Edgrid
+Ejercicio de layer responsive y menú, con plantilla Edgrid
